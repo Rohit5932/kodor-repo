@@ -18,5 +18,7 @@
 .h2{
     width: 200px;
     height:100px;
+    display: flex;
+    
 
 }
